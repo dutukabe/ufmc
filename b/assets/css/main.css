@@ -2113,7 +2113,7 @@
 
 		a:hover {
 			border-bottom-color: #6236b1;
-			color: #613ea0 !important;
+			color: #845ec5 !important;
 		}
 
 			a:hover strong {
@@ -2954,7 +2954,7 @@
 		border-radius: 0.375em;
 		border: 0;
 		box-shadow: inset 0 0 0 2px #6236b1;
-		color: #613ea0 !important;
+		color: #845ec5 !important;
 		cursor: pointer;
 		display: inline-block;
 		font-family: "Roboto Slab", serif;
