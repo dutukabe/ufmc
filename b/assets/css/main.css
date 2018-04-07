@@ -3797,7 +3797,6 @@
 		position: relative;
 	}
 
-#header:after{background-image: linear-gradient(to right,#5e42a6,#b74e91);}
 		#header > * {
 			-moz-flex: 1;
 			-webkit-flex: 1;
