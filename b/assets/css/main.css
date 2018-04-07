@@ -3793,11 +3793,11 @@
 		display: -ms-flex;
 		display: flex;
 		border-bottom: solid 5px #6639b7;
-background-image: linear-gradient(to right,#5e42a6,#b74e91);
 		padding: 6em 0 1em 0;
 		position: relative;
 	}
 
+#header a:after{background-image: linear-gradient(to right,#5e42a6,#b74e91);}
 		#header > * {
 			-moz-flex: 1;
 			-webkit-flex: 1;
